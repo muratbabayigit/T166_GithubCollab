@@ -3,5 +3,7 @@ public class OrtakDizin {
         System.out.println("ne yaparsan yap AŞK ile yap");
         System.out.println("deneme");
         System.out.println("ortalık karışacak vaziyet alın");
+        System.out.println("ortalık karışmış zaten hocam");
+
     }
 }
